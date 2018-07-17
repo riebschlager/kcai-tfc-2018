@@ -1,1 +1,3 @@
-# kcai-tkfc-2018
+# Toolbox for Coding
+
+## Kansas City Art Institute - Fall 2018
