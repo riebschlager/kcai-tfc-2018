@@ -1,3 +1,5 @@
-# Toolbox for Coding
+# Kansas City Art Institute - Toolbox for Coding
 
-## Kansas City Art Institute - Fall 2018
+#### Fall 2018 • MW 6:30pm - 9:30pm
+
+## Chris Riebschlager - riebschlager@gmail.com
