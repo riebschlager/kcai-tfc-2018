@@ -1,10 +1,35 @@
 # Kansas City Art Institute - Toolbox for Coding
 
-#### Fall 2018 • MW 6:30pm - 9:30pm
+#### Fall 2018 • MW 6:30pm - 9:20pm
 
 #### Chris Riebschlager - riebschlager@gmail.com
 
-# Class Notes and Resources
+# Inspiration
+
+- [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
+- [Creative Applications](http://www.creativeapplications.net/)
+- [Generative Artistry](https://generativeartistry.com/)
+- [Inconvergent](https://inconvergent.net/)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+- [OpenProcessing](https://www.openprocessing.org/)
+
+# Tools
+
+- [Glitch](https://glitch.com/)
+- [p5.js](https://p5js.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+# Reference
+
+- [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+# Resources
+
+- [Stack Overflow](https://stackoverflow.com/)
+
+# Class Notes
 
 - [2018-08-20](./classes/2018-08-20.md)
 - [2018-08-22](./classes/2018-08-22.md)
