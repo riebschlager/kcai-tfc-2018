@@ -4,9 +4,7 @@
 
 ## Course Overview
 
-Students will learn coding fundamentals by using frameworks created specifically for artists and designers.
-
-to quickly realize their intentions without the need for extensive coding knowledge. Advanced techniques include integration between software(s), communication within a network, and coding for interactivity with the physical world. Multiple applications will be studied, creating a “toolbox” of coding knowledge for students to use seamlessly throughout their projects.
+Students will learn coding fundamentals by using frameworks created specifically for artists and designers. Creative coding principles and ideas will be examined and put into practice through projects and experimentation. Multiple applications will be studied, creating a “toolbox” of coding knowledge for students to use seamlessly throughout their projects.
 
 ## Instructor
 
