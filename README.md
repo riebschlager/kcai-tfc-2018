@@ -13,6 +13,13 @@
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [OpenProcessing](https://www.openprocessing.org/)
 
+# Videos
+
+- [Robert Hodgin - Eyeo 2014](https://vimeo.com/103537259)
+- [Joshua Davis - Never Let Success Get In The Way of Creativity](https://www.youtube.com/watch?v=l1JhJawUc5c)
+- [Tim Holman - Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
+- [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=647Nryzve2A)
+
 # Tools
 
 - [Glitch](https://glitch.com/)
