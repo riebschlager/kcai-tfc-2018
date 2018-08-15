@@ -2,7 +2,7 @@
 
 #### Fall 2018 • MW 6:30pm - 9:20pm
 
-#### Chris Riebschlager - riebschlager@gmail.com
+#### Chris Riebschlager - criebschlager@kcai.edu
 
 # Inspiration
 

@@ -8,7 +8,7 @@ Students will learn coding fundamentals by using frameworks created specifically
 
 ## Instructor
 
-Chris Riebschlager - riebschlager@gmail.com
+Chris Riebschlager - criebschlager@kcai.edu
 
 ## Course Times
 
