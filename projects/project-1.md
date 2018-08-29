@@ -2,6 +2,20 @@
 
 ## Tell me a Story
 
+Technology allows us to tell stories in new and interesting ways. Stories don't necessarily need a beginning, middle and end, or a static cast of characters. Using the skills we've learned, I want you to construct a story. Carefully consider the story you want to tell and invent compelling ways to tell it.
+
+## Requirements
+
+- Your story should present an original narrative in a interesting way.
+- Present your story using the web technologies we've learned using glitch.com to host your project.
+- Make use of the HTML and CSS we've learned, experiment with tech we haven't talked about yet.
+- The viewer should have some agency in your story.
+- You will present your work to the class for discussion and critique.
+
+## Due Date
+
+October 1st
+
 ## Ideas
 
 - [The Future is Interactive Storytelling](http://theconversation.com/the-future-is-in-interactive-storytelling-76772)
