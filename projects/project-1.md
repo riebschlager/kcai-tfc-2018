@@ -1,6 +1,6 @@
 # Project One
 
-## Tell me a Story
+## Tell Me a Story
 
 Technology allows us to tell stories in new and interesting ways. Stories don't necessarily need a beginning, middle and end, or a static cast of characters. Using the skills we've learned, I want you to construct a story. Carefully consider the story you want to tell and invent compelling ways to tell it.
 
