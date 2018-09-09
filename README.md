@@ -4,6 +4,10 @@
 
 #### Chris Riebschlager - criebschlager@kcai.edu
 
+# Projects
+
+- [Project One - Tell Me a Story](https://github.com/riebschlager/kcai-tfc-2018/blob/master/projects/project-1.md)
+
 # Inspiration
 
 - [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
