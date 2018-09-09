@@ -47,7 +47,7 @@
 - [2018-08-27: CSS](./classes/2018-08-27.md)
 - [2018-08-29: CSS Transitions and Animation](./classes/2018-08-29.md)
 - [2018-09-05: Image Formats](./classes/2018-09-05.md)
-- [2018-09-10](./classes/2018-09-10.md)
+- [2018-09-10: Introduction to Javascript](./classes/2018-09-10.md)
 - [2018-09-12](./classes/2018-09-12.md)
 - [2018-09-17](./classes/2018-09-17.md)
 - [2018-09-19](./classes/2018-09-19.md)
