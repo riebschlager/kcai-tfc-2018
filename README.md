@@ -29,6 +29,7 @@
 - [Glitch](https://glitch.com/)
 - [p5.js](https://p5js.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Public APIs](https://github.com/toddmotto/public-apis)
 
 # Reference
 
