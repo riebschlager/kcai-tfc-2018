@@ -53,7 +53,7 @@
 - [2018-09-17: JS Loops, Element Creation](./classes/2018-09-17.md)
 - [2018-09-19: Showing and Hiding Content](./classes/2018-09-19.md)
 - [2018-09-24: Draggability](./classes/2018-09-24.md)
-- [2018-09-26](./classes/2018-09-26.md)
+- [2018-09-26: CSS Frameworks](./classes/2018-09-26.md)
 - [2018-10-01](./classes/2018-10-01.md)
 - [2018-10-03](./classes/2018-10-03.md)
 - [2018-10-08](./classes/2018-10-08.md)
