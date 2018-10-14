@@ -7,6 +7,7 @@
 # Projects
 
 - [Project One - Tell Me a Story](https://github.com/riebschlager/kcai-tfc-2018/blob/master/projects/project-1.md)
+- [Project Two - Make a Game](https://github.com/riebschlager/kcai-tfc-2018/blob/master/projects/project-2.md)
 
 # Inspiration
 
