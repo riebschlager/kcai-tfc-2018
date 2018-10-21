@@ -6,7 +6,7 @@ Make a game! What is or isn't a game is up to you. Ideally, your game will be a 
 
 ## Requirements
 
-- Present your gmae using the web technologies we've learned using glitch.com to host your project.
+- Present your game using the web technologies we've learned using glitch.com to host your project.
 - Make use of the HTML and CSS we've learned, experiment with tech we haven't talked about yet.
 - You will present your work to the class for discussion and critique.
 

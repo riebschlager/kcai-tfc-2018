@@ -61,7 +61,7 @@
 - [2018-10-10](./classes/2018-10-10.md)
 - [2018-10-15: Hello Processing](./classes/2018-10-15.md)
 - [2018-10-17: Drawing Machine](./classes/2018-10-17.md)
-- [2018-10-22](./classes/2018-10-22.md)
+- [2018-10-22: Procedural Pointillism](./classes/2018-10-22.md)
 - [2018-10-24](./classes/2018-10-24.md)
 - [2018-10-29](./classes/2018-10-29.md)
 - [2018-10-31](./classes/2018-10-31.md)
