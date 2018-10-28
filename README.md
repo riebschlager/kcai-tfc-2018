@@ -63,7 +63,7 @@
 - [2018-10-17: Drawing Machine](./classes/2018-10-17.md)
 - [2018-10-22: Procedural Pointillism](./classes/2018-10-22.md)
 - [2018-10-24: Webcam Interaction](./classes/2018-10-24.md)
-- [2018-10-29](./classes/2018-10-29.md)
+- [2018-10-29: Tracking Game](./classes/2018-10-29.md)
 - [2018-10-31](./classes/2018-10-31.md)
 - [2018-11-05](./classes/2018-11-05.md)
 - [2018-11-07](./classes/2018-11-07.md)
