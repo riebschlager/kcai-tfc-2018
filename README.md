@@ -66,7 +66,7 @@
 - [2018-10-29: Tracking Game](./classes/2018-10-29.md)
 - [2018-10-31](./classes/2018-10-31.md)
 - [2018-11-05: Object Oriented Programming](./classes/2018-11-05.md)
-- [2018-11-07](./classes/2018-11-07.md)
+- [2018-11-07: Simple Physics](./classes/2018-11-07.md)
 - [2018-11-12](./classes/2018-11-12.md)
 - [2018-11-14](./classes/2018-11-14.md)
 - [2018-11-19](./classes/2018-11-19.md)
